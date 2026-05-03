@@ -64,7 +64,7 @@ Open your terminal or CMD in that folder and run the encryption command:
 
 ```bash
 python encrypt_submission.py submission.csv submission.enc submission.enc.key public_key.pem
-
+```
 
 This will generate two files:
 
